@@ -1,5 +1,5 @@
 // 백엔드 API 기본 주소
-const API_BASE_URL = "http://3.106.199.155/api/members";
+const API_BASE_URL = "http://3.106.199.155:8080/api/members";
 
 /**
  * 1. 회원가입 함수 (POST /api/members/register)
